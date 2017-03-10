@@ -1,5 +1,0 @@
-Inside
-Image created 480 640
-C:\Anaconda\cascade.xml
-Parameters set
-FibersDetected 1
